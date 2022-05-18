@@ -33,7 +33,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) -->
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulgrym)
+<!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulgrym) -->
 
 
 
