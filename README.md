@@ -1,7 +1,7 @@
 ## Hi there, I'm Paulina 🙋
 
 ### About me
-📖 Currently learning Redux and Redux-Saga.
+📖 Currently learning TypeScript.
 
 🏗️ Working on my skills in JavaScript and React.
 
