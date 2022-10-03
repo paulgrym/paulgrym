@@ -1,7 +1,7 @@
 ## Hi there, I'm Paulina 🙋
 
 ### About me
-📖 Currently learning TypeScript.
+📖 Currently learning Storybook and testing in Jest, while creating a website for the Sterczące Uszy foundation.
 
 🏗️ Working on my skills in JavaScript and React.
 
